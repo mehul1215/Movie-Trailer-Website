@@ -1,4 +1,4 @@
-# Movie-Trailer-Website
+# Movie-Trailer-Website - simplest way to witness a trailer
 
 The server-side code is written in Python and the data is then served to a web page using
 HTML, CSS.
